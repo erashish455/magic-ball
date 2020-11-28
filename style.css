@@ -1,0 +1,53 @@
+p {
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    background: black;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+p span {
+    text-align: center;
+    color: aliceblue;
+    font-size: 6rem;
+}
+
+.ashish {
+    display: none;
+}
+
+body {
+    background: linear-gradient(to left, #33cc33 0%, #6600ff 100%)
+}
+
+h3,
+label {
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+input {
+    font-size: larger
+}
+
+h2 span {
+    color: cornsilk;
+    font-family: monospace;
+    font-size: 4rem;
+}
+
+select {
+    color: darkblue;
+    background-color: cyan;
+}
+
+.lable {
+    font-size: x-large;
+    color: papayawhip;
+}
+
+.lastinput {
+    border-radius: 10px;
+    background-color: floralwhite;
+}
