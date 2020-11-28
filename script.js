@@ -42,4 +42,4 @@ function answer() {
 function SelectValue() {
     selectValue = document.getElementById('question').value;
     console.log(selectValue)
-}
+} 
